@@ -2,10 +2,10 @@
 
 This repository contains my machine learning projects built using real-world datasets and practical implementations.
 
-## 📚 About
+## About
 This repository showcases multiple machine learning tasks including classification, regression, clustering, and data preprocessing.
 
-## 🧠 Projects Included
+## Projects Included
 
 ### 1. Customer Churn Prediction
 - Predicts whether a customer will leave a service
@@ -31,7 +31,7 @@ This repository showcases multiple machine learning tasks including classificati
 ### 7. Unsupervised Learning (Sales Data)
 - Clustering and pattern detection
 
-## 💻 Technologies Used
+## Technologies Used
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -43,14 +43,14 @@ This repository showcases multiple machine learning tasks including classificati
 - Model training
 - Model evaluation
 
-## 🎯 Purpose
+## Purpose
 The goal of this repository is to apply machine learning concepts on real datasets and improve practical skills in AI/ML.
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add deep learning projects (TensorFlow, PyTorch)
 - Improve model performance
 - Add more real-world datasets
 
-## 📌 Author
+## Author
 Muhammadiyev Husan  
 GitHub: https://github.com/husan-ai
